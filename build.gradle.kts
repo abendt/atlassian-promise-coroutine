@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
 
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-guava:1.3.9-native-mt-2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-jdk8:1.3.9-native-mt-2")
 
     implementation("com.atlassian.jira:jira-rest-java-client-core:5.2.1")
 
